@@ -1,4 +1,4 @@
-# password-visibility-toggle
+# Click To Tweet App JavaScript
 
 **Check out our 100 Days of JavaScript course aimed at helping beginners/intermediate level JavaScript developers sharpen their JavaScript skills**
 
